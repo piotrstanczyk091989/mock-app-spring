@@ -1,0 +1,10 @@
+INSERT INTO `user` (id, username, active, superuser) VALUES (1L, 'kowalski 1', true, true);
+INSERT INTO `user` (id, username, active, superuser) VALUES (2, 'kowalski 2', true, false);
+INSERT INTO `user` (id, username, active, superuser) VALUES (3, 'kowalski 3', true, false);
+INSERT INTO `user` (id, username, active, superuser) VALUES (4, 'kowalski 4', true, false);
+INSERT INTO `user` (id, username, active, superuser) VALUES (5, 'kowalski 5', true, true);
+INSERT INTO `user` (id, username, active, superuser) VALUES (6, 'kowalski 6', false, false);
+INSERT INTO `user` (id, username, active, superuser) VALUES (7, 'kowalski 7', false, false);
+INSERT INTO `user` (id, username, active, superuser) VALUES (8, 'kowalski 8', false, false);
+INSERT INTO `user` (id, username, active, superuser) VALUES (9, 'kowalski 9', false, false);
+INSERT INTO `user` (id, username, active, superuser) VALUES (10, 'kowalski 10', false, false);
